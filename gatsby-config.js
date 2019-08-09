@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `pozitiff gatsby netlify cms`,
     description: `pozitiff gatsby netlify cms`,
-    author: `@gatsbyjs`,
+    author: `@gatsbyjs`
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -11,17 +11,17 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `img`,
-        path: `${__dirname}/static`,
-      },
+        path: `${__dirname}/static/img`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
-        path: `${__dirname}/src/pages`,
-      },
+        path: `${__dirname}/src/pages`
+      }
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-  ],
+    `gatsby-plugin-sharp`
+  ]
 }
