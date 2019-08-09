@@ -1,7 +1,12 @@
 ---
-title: the first
-description: blah-blah-blah-blah-blah-blah-blah-blah-blah-blah-blah-
+title: Полулюкс
+description: >-
+  Кондиционированный номер со спутниковым телевидением и холодильником. В
+  отдельной ванной комнате все удобства и аксессуары. Включает гостевую комнату
+  с диваном. Площадь: 30 m². Кровати: 1 кровать-диван, 1 двуспальная кровать.
+
+  Цена от 1050ГРН за 1-местный номер
 price: '999'
-image: /static/img/sudo-card-black.jpg
+image: /static/img/nton_standart_001.jpg
 ---
 
