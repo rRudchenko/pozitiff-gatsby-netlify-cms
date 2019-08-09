@@ -1,12 +1,12 @@
-import React from 'react'
-import { graphql } from 'gatsby'
-import './style.css'
-import { MainContainer } from './styles.js'
+import React from "react"
+import { graphql } from "gatsby"
+import "../style.css"
+import { MainContainer } from "../styles.js"
 
-import RoomItem from '../components/roomItem/RoomItem'
+import RoomItem from "../components/roomItem/RoomItem"
 
 const IndexPage = ({ data }) => {
-  console.log('DATA', data)
+  console.log("DATA", data)
   const content = data.allMarkdownRemark.edges
 
   return (
@@ -15,8 +15,8 @@ const IndexPage = ({ data }) => {
         (
           {
             node: {
-              frontmatter: { title, description, price, image }
-            }
+              frontmatter: { title, description, price, image },
+            },
           },
           i
         ) => {
