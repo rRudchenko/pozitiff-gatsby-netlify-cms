@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const ItemContainer = styled.article`
   max-width: 940px;
-  height: 290px;
+  height: 280px;
   margin: 10px 10px 90px 10px;
   sborder: 1px solid lightgrey;
   box-shadow: inset 0 0 0 5px rgba(200, 200, 200, 0.1),
