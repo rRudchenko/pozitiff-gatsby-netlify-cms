@@ -4,6 +4,6 @@ description: |-
   qweqweqwe
   qweqweqwe
 price: '123'
-image: /static/img/photo_2019-05-19_08-02-30.jpg
+image: /static/img/godfather-tux.jpg
 ---
 
