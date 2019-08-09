@@ -1,14 +1,12 @@
 ---
-title: The one
+title: Улучшенный номер
 description: >-
-  Vivamus eget turpis vel lorem tristique dignissim. Phasellus vitae euismod
-  leo, vel varius magna. Nam vitae ex mauris. Suspendisse potenti. In hac
-  habitasse platea dictumst. Maecenas nunc mi, vehicula ac nibh a, dignissim
-  suscipit enim. Aliquam sagittis, purus sit amet iaculis vulputate, risus magna
-  mollis dui, eu cursus quam orci ac arcu. Vestibulum efficitur lorem vel quam
-  sagittis, at pretium ante sodales. Duis vitae libero vel nisi malesuada
-  porttitor.
+  Кондиционированный номер со спутниковым телевидением и холодильником. В
+  отдельной ванной комнате все удобства и аксессуары. Площадь: 18 м². Кровати: 2
+  односпальных кровати или 1 двуспальная кровать (количество ограничено)
+
+  Цена от 800ГРН/сутки за 1-местный номер
 price: '22.22'
-image: /static/img/zeeeeebra.jpg
+image: /static/img/nton_standart_001.jpg
 ---
 
