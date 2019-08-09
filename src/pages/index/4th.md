@@ -1,13 +1,12 @@
 ---
-title: 4th
+title: Стандартный номер
 description: >-
-  Mauris vitae mauris ac nisi ullamcorper dapibus. Curabitur aliquet sodales est
-  nec consectetur. Pellentesque rhoncus rutrum quam, sit amet sodales dui
-  placerat a. Donec sit amet posuere quam. Cras in vulputate magna. Nam dui
-  felis, iaculis ac nibh sit amet, eleifend congue dui. Aliquam nisl justo,
-  finibus ac dolor sed, placerat vestibulum eros. Pellentesque habitant morbi
-  tristique senectus et netus et malesuada fames ac turpis egestas.
+  Кондиционированный номер со спутниковым телевидением и холодильником. В
+  отдельной ванной комнате все удобства и аксессуары.Площадь: 16 м². Кровати: 2
+  односпальных кровати или 1 двуспальная кровать (количество ограничено)
+
+  Цена от 620грн/сутки за 1-местный номер
 price: '123'
-image: /static/img/godfather-tux.jpg
+image: /static/img/nton_standart_001.jpg
 ---
 
